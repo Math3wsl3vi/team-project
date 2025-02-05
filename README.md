@@ -90,8 +90,8 @@ Before running the project locally, ensure that you have the following installed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hms-followup-app.git
-   cd hms-followup-app
+   git clone https://github.com/Math3wsl3vi/team-project.git
+   cd team-project
    ```
 
 2. Install the dependencies:
