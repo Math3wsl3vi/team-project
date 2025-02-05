@@ -1,6 +1,3 @@
-Here’s a sample `README.md` for your GitHub repo outlining the stack for both the web and Android versions of your Hospital Management System (HMS) with a follow-up app:
-
----
 
 # Hospital Management System (HMS) with Medication Follow-up App
 
